@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# うるう年アルゴリズム
+`leap-year-algorithm.dart`を編集してください。
