@@ -5,5 +5,6 @@
 |  課題  |  プロジェクト名  |
 | ---- | ---- |
 | 基本的なWidgetの使い方 | widget_learning |
-| チュートリアルに挑戦：Write your Flutter App #1と#2|flutter_tutorials| 
+| チュートリアルに挑戦：Write your Flutter App #1|flutter_tutorials1| 
+| チュートリアルに挑戦：Write your Flutter App #2|flutter_tutorials2| 
 |UIトレースにチャレンジする|qiita_app|
