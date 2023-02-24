@@ -5,7 +5,7 @@
 1. このリポジトリ上で`Use this template`をクリック
 <img width="1440" alt="スクリーンショット_2023-02-24_12_43_18" src="https://user-images.githubusercontent.com/73689418/221086737-a5ff2dd4-763a-4b16-9297-869ee0b530e1.png">
 
-2. ownerをShinonome incに指定する
+2. `owner`を`Shinonome,　inc`に指定する
 <img width="1439" alt="スクリーンショット_2023-02-24_12_46_56" src="https://user-images.githubusercontent.com/73689418/221087264-50e395e0-b06d-44b8-9249-b911b635003e.png">
 
 3. リポジトリ名を記入し、`Create repository from template`をクリックして作成<br>
