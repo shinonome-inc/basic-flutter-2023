@@ -11,12 +11,3 @@
 3. リポジトリ名を記入し、`Create repository from template`をクリックして作成<br>
 リポジトリ名は`mobile_（名前）_basic_flutter`とする。
 <img width="810" alt="スクリーンショット 2023-02-24 12 50 35" src="https://user-images.githubusercontent.com/73689418/221087556-0f1edbd4-e94d-4bcb-8a2a-dad12a8c1a3d.png">
-
-
-以下の課題についてはリポジトリの作成は任意とします。  
-が、リポジトリを作成した上で課題を進める際には、`basic-flutter-2023/` フォルダ内に下記の名前をつけたプロジェクトを作成してください。
-|  課題  |  プロジェクト名  |
-| ---- | ---- |
-| 基本的なWidgetの使い方 | widget_learning |
-| チュートリアルに挑戦：Write your Flutter App #1|flutter_tutorials1| 
-| チュートリアルに挑戦：Write your Flutter App #2|flutter_tutorials2| 
